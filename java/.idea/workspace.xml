@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="207ee572-c06d-4d34-afb7-b240297eac35" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../python/MergeSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/MergeSortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/BestTimeToBuyAndSellStock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/MajorityElement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/MergeSortedArray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/RemoveDuplicatesFromSortedArray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/RemoveElement.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
