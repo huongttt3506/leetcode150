@@ -35,7 +35,7 @@ class MergeSortedArray:
 
 
 if __name__ == '__main__':
-    sol = Solution()
+    sol = MergeSortedArray()
     print('sum:', sol.add(3,4))
     print("last sum:", sol.lastSum())
     print('sum:%d' % sol.add(3,4))
