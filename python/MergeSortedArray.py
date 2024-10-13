@@ -1,6 +1,6 @@
 from typing import List
 
-class Solution:
+class MergeSortedArray:
     def __init__(self):
         self.ans = 0
 

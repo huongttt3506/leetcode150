@@ -1,5 +1,5 @@
 from typing import List
-class Solution:
+class RemoveElement:
     def removeElement(self, nums: List[int], val: int) -> int:
         k = 0
         for i in range(len(nums)):
